@@ -75,7 +75,7 @@ The analytical model was designed by:
 ```text
 Executive-Sales-Analytics-Dashboard/
 │
-├── Dashboard.pbix
+├── Executive Sales Performance Dashboard.pbix
 ├── Dataset/
 ├── Images/
 └── README.md
