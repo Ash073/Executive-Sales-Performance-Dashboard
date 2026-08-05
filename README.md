@@ -65,7 +65,7 @@ The analytical model was designed by:
 > *Dashboard screenshot*
 
 <p align="center">
-  <img src="Images/Dashboard.png" alt="Executive Sales Analytics Dashboard" width="900">
+  <img src="C:\Users\Sayyed Ashif\OneDrive\Pictures\Screenshots\Screenshot 2026-08-05 203735.png" alt="Executive Sales Analytics Dashboard" width="900">
 </p>
 
 ---
